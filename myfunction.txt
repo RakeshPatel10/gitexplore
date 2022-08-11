@@ -4,6 +4,3 @@ second function
 
 sum added
 sub added
-
-mul added
-div added
