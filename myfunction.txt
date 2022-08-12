@@ -9,3 +9,6 @@ mul added
 div added
 
 this is for newnav branch
+
+
+this newfooter
