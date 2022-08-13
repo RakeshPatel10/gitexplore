@@ -12,3 +12,6 @@ this is for newnav branch
 
 
 this newfooter
+
+
+this is newchart function
