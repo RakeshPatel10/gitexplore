@@ -1,1 +1,2 @@
 i am fasty function
+no fastforward --no-ff
