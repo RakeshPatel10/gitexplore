@@ -16,4 +16,4 @@ this newfooter
 
 this is newchart function
 
-this is login of google
+this is login of google link
